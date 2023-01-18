@@ -37,7 +37,9 @@ app.post("/", async (req, res) => {
     res.status(500).send(error || "Something went wrong");
   }
 });
-
+app.get('/', (req, res) => {
+  res.send('Hello World!')
+})
 app.listen(80, () => {
   console.log("App is running");
 });
