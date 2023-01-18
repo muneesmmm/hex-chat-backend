@@ -1,9 +1,9 @@
 {
-  "name": "youtube2023",
+  "name": "hexchat",
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
-  "author": "hafizjavaid <hafizjaidi786@gmail.com>",
+  "author": "mueesmmm@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node server.js"
