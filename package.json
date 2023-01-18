@@ -6,7 +6,7 @@
   "author": "hafizjavaid <hafizjaidi786@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
